@@ -12,7 +12,6 @@ This repository contains mini-assignments from the **Compiler Design** course, f
 | `Mini-Asgn-4-41 (1).pdf.gz` | Compressed PDF submission for Mini Assignment 4 |
 | `lex3.l.docx` | Lex program for counting words, letters, and vowels (in Word format) |
 | `lex4.l.docx` | Lex program for recognizing C language tokens (in Word format) |
-| `mini_assignment2_c (1).pdf` | Likely contains source or explanation for Mini Assignment 2 |
 | `report.pdf.docx` | Report document related to Mini Assignment 1 |
 | `README.md` | This file, providing an overview of the repository |
 
