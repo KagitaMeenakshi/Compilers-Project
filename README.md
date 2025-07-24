@@ -74,7 +74,3 @@ B.Tech Mathematics and Computing, IIT Hyderabad
 [GitHub](https://github.com/KagitaMeenakshi) | [LinkedIn](https://www.linkedin.com/in/meenakshi-kagita-a085a5366)
 
 ---
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
