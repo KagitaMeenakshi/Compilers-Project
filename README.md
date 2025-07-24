@@ -15,7 +15,7 @@ This repository contains a set of Lex programs and scripts developed as part of 
   - File redirection using command-line arguments  
 
 - **Mini Assignment 2** –  
-  ➤ Advanced pattern recognition and symbol table construction (if included).
+  ➤ Advanced pattern recognition and symbol table construction.
 
 > All programs are written using **Lex (.l files)** and tested on a Linux environment.
 
