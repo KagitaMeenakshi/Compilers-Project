@@ -1,76 +1,38 @@
-# ⚙️ Lexical Analyzer – Compiler Design Mini Assignments
+# 🧾 Compilers Project
 
-This repository contains a set of Lex programs and scripts developed as part of compiler design coursework. These programs demonstrate the lexical analysis phase of a compiler using tools like **Lex** and **Bash** scripting.
+This repository contains mini-assignments from the **Compiler Design** course, focusing on lexical analysis using Lex and basic C programming.
 
----
+## 📂 File Structure
 
-## 📌 Contents
-
-### 🧾 Mini Assignments
-- **Mini Assignment 1** –  
-  ➤ Implemented multiple Lex programs to perform:
-  - Word, vowel, and character counting  
-  - Recognition of keywords and identifiers  
-  - Pattern matching for C-style numbers and variable names  
-  - File redirection using command-line arguments  
-
-- **Mini Assignment 2** –  
-  ➤ Advanced pattern recognition and symbol table construction.
-
-> All programs are written using **Lex (.l files)** and tested on a Linux environment.
-
----
-
-## 🗂️ File Structure
-
-```bash
-📦 compilers-project/
-├── Mini-Asgn-1.tar.gz       # Archive containing all Lex files and scripts
-├── lex3.l                   # Word, vowel, and letter counting
-├── lex4.l                   # Pattern recognition in C code
-├── run.sh                   # Bash script to compile and run Lex programs
-└── README.md
-```
-
----
-
-## ⚙️ How to Run
-
-### 🧰 Requirements
-- Linux/MacOS environment
-- `lex` or `flex` installed
-- `gcc` installed
-
-### ▶️ Compilation & Execution
-
-```bash
-lex lex3.l
-gcc lex.yy.c -o lexprog
-./lexprog
-```
-
-For redirection using file input:
-```bash
-./lexprog < input.txt > output.txt
-```
-
-Or use `run.sh` for automated execution.
-
----
+| File Name | Description |
+|-----------|-------------|
+| `Mini-Asgn-1-41 (2) (2).tar.gz` | Archive containing source code and report files for Mini Assignment 1 |
+| `Mini-Asgn-2-41 (1) (1).pdf.gz` | Compressed PDF submission for Mini Assignment 2 |
+| `Mini-Asgn-3-41 (2) (1).tar.gz` | Archive containing Lex files and scripts for Mini Assignment 3 |
+| `Mini-Asgn-4-41 (1).pdf.gz` | Compressed PDF submission for Mini Assignment 4 |
+| `lex3.l.docx` | Lex program for counting words, letters, and vowels (in Word format) |
+| `lex4.l.docx` | Lex program for recognizing C language tokens (in Word format) |
+| `mini_assignment2_c (1).pdf` | Likely contains source or explanation for Mini Assignment 2 |
+| `report.pdf.docx` | Report document related to Mini Assignment 1 |
+| `README.md` | This file, providing an overview of the repository |
 
 ## 📚 Learning Outcomes
 
-- Understanding of the lexical analysis phase in a compiler
-- Hands-on with Lex for token recognition
-- Bash scripting for compiler automation
-- Integration of file I/O with lexical analyzers
+- Gained hands-on experience in **Lexical Analysis** using Lex/Flex.
+- Understood how to write **Lex programs** to tokenize C source code.
+- Implemented **automated word and character analysis** in text input.
+- Practiced **compilation pipeline components**, focusing on the lexer phase.
+- Used **shell scripting and archiving** (`.sh`, `.tar.gz`) for file organization and submission.
+- Developed technical documentation and reports using `.pdf` and `.docx`.
 
----
+## 🛠️ Technologies Used
 
-## 👩‍💻 Author
+- **Lex / Flex** – for writing lexical analyzers  
+- **C** – for integrating lex output with C code  
+- **PDF & DOCX** – for submission reports and explanations  
+- **.tar.gz** – for bundling assignment submissions  
 
-**Meenakshi Kagita**  
-B.Tech Mathematics and Computing, IIT Hyderabad  
-[GitHub](https://github.com/KagitaMeenakshi) | [LinkedIn](https://www.linkedin.com/in/meenakshi-kagita-a085a5366)
+## 🎓 Course
 
----
+Compiler Design (CS3320)  
+IIT Hyderabad — Mini Assignments for 2nd Year Curriculum
