@@ -13,7 +13,7 @@ This repository contains mini-assignments from the **Compiler Design** course, f
 | `lex3.l.docx` | Lex program for counting words, letters, and vowels (in Word format) |
 | `lex4.l.docx` | Lex program for recognizing C language tokens (in Word format) |
 | `report.pdf.docx` | Report document related to Mini Assignment 1 |
-| `README.md` | This file, providing an overview of the repository |
+| `README.md` | This file provides an overview of the repository |
 
 ## 📚 Learning Outcomes
 
